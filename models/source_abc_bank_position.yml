@@ -1,7 +1,7 @@
 version: 2
 
 sources:
-  - name: abc_bank_position
+  - name: abc_bank
     database: nreyes
     schema: portfolio_tracking_src
     tables:
